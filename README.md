@@ -1,1 +1,1 @@
-# fibonacci-ruby
+# recursive-ruby
